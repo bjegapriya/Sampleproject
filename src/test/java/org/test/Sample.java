@@ -25,6 +25,8 @@ sendKeys(txtPass, "ashok");
 		driver.close();
 		
 		
+		driver.quit();
+		
 		
 		
 		
